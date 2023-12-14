@@ -4,6 +4,7 @@ Project Idea : Develop a model that captures both syntactic and semantic relatio
 
 Modules included in our Project:
 1. Data collection and preprocessing 
+2. Train and test split 
 3. Model Training
 4.  Model selection
 5. Integrating GUI
